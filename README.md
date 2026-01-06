@@ -53,6 +53,5 @@ User Question
 - LLaMA 3  
 
 ---
-
-## Project Structure
+<img width="1680" height="159" alt="Screenshot 2026-01-06 at 2 57 39 PM" src="https://github.com/user-attachments/assets/5b7aca1a-55d7-49a2-b490-93555dffd34d" />
 
